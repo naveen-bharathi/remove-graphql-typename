@@ -1,4 +1,5 @@
-![tests](https://github.com/naveen-bharathi/remove-graphql-typename/workflows/tests/badge.svg?event=push) ![License](https://img.shields.io/github/license/naveen-bharathi/remove-graphql-typename) ![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/remove-graphql-typename)
+![tests](https://github.com/naveen-bharathi/remove-graphql-typename/workflows/tests/badge.svg?event=push) ![License](https://badgen.net/npm/license/@naveen-bharathi%2Fremove-graphql-typename?color=blue) ![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/remove-graphql-typename) ![weekly downloads](https://badgen.net/npm/dw/@naveen-bharathi%2Fremove-graphql-typename?color=blue&icon=npm) ![dependencies](https://badgen.net/david/dep/naveen-bharathi/remove-graphql-typename?color=green) ![dependents](https://badgen.net/npm/dependents/@naveen-bharathi%2Fremove-graphql-typename?color=green) ![publish size](https://badgen.net/bundlephobia/minzip/@naveen-bharathi/remove-graphql-typename?color=blue)
+
 
 # remove-graphql-typename
 
