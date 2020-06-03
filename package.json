@@ -44,7 +44,7 @@
     "jest": "^26.0.1"
   },
   "dependencies": {
-    "@naveen-bharathi/recursive-object-key-filter": "^1.0.4"
+    "@naveen-bharathi/recursive-object-key-filter": "^1.0.5"
   },
   "publishConfig": {
     "access": "public"
