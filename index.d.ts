@@ -1,0 +1,1 @@
+declare module '@naveen-bharathi/remove-graphql-typename';
