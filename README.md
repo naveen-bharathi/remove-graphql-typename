@@ -95,7 +95,7 @@ console.log(objectWithoutTypename);
 
 ## Tests
 
-![tests](https://github.com/naveen-bharathi/remove-graphql-typename/workflows/Node.js%20CI/badge.svg?event=push)
+![tests](https://github.com/naveen-bharathi/remove-graphql-typename/workflows/tests/badge.svg?event=push)
 
 
 ## Open Issues
