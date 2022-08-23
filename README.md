@@ -1,4 +1,9 @@
-[![tests](https://github.com/naveen-bharathi/remove-graphql-typename/actions/workflows/tests.yml/badge.svg)](https://github.com/naveen-bharathi/remove-graphql-typename/actions/workflows/tests.yml) ![License](https://badgen.net/npm/license/remove-graphql-typename?color=blue) ![GitHub issues](https://img.shields.io/github/issues/remove-graphql-typename) ![weekly downloads](https://badgen.net/npm/dw/remove-graphql-typename?color=blue&icon=npm) ![dependencies](https://badgen.net/david/dep/remove-graphql-typename?color=green) ![dependents](https://badgen.net/npm/dependents/remove-graphql-typename?color=green) ![publish size](https://badgen.net/bundlephobia/minzip/remove-graphql-typename?color=blue)
+[![tests](https://github.com/naveen-bharathi/remove-graphql-typename/actions/workflows/tests.yml/badge.svg)](https://github.com/naveen-bharathi/remove-graphql-typename/actions/workflows/tests.yml)
+[![License](https://img.shields.io/npm/l/remove-graphql-typename?color=%23007ec6)](https://www.npmjs.com/package/remove-graphql-typename#LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/remove-graphql-typename)](https://github.com/naveen-bharathi/remove-graphql-typename/issues)
+![weekly downloads](https://img.shields.io/npm/dw/remove-graphql-typename)
+![version](https://img.shields.io/npm/v/remove-graphql-typename?color=%23007ec6)
+![publish size](https://img.shields.io/bundlephobia/minzip/remove-graphql-typename)
 
 
 # remove-graphql-typename
@@ -96,12 +101,12 @@ console.log(languagesFiltered);
 
 ## Tests
 
-![tests](https://github.com/remove-graphql-typename/workflows/tests/badge.svg?event=push)
+[![tests](https://github.com/naveen-bharathi/remove-graphql-typename/actions/workflows/tests.yml/badge.svg)](https://github.com/naveen-bharathi/remove-graphql-typename/actions/workflows/tests.yml)
 
 
 ## Open Issues
 
-![GitHub issues](https://img.shields.io/github/issues/remove-graphql-typename)
+[![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/remove-graphql-typename)](https://github.com/naveen-bharathi/remove-graphql-typename/issues)
 
 
 ## LICENSE
