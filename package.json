@@ -1,6 +1,6 @@
 {
   "name": "remove-graphql-typename",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove __typename in GraphQL response",
   "main": "index.js",
   "scripts": {
